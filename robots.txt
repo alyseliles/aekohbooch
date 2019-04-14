@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://roosheesul.dontkillmyapp.com/sitemap.xml
